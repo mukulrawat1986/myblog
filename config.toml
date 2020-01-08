@@ -1,4 +1,4 @@
-baseurl = "mukulrawat.netlify.com"
+baseurl = "https://mukulrawat.netlify.com/"
 title = "Code Life Code"
 theme = "ghostwriter"
 languageCode = "en-us"
